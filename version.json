@@ -2,10 +2,9 @@
   "versionCode": 5,
   "versionName": "1.4",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/house-tv-releases/main/app-release.apk",
-  "notes": "Channel sources are fetched securely after sign-in • nothing sensitive ships in the app",
+  "notes": "Channel sources are now fetched securely after sign-in",
   "changes": [
-    "Channel sources are fetched securely after sign-in",
-    "nothing sensitive ships in the app"
+    "Channel sources are now fetched securely after sign-in"
   ],
   "sha256": "90d0aa8c37b93e779d3e7f14a8a3a364193966026776bda876cee48f0650bbc6"
 }
