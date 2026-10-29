@@ -1,13 +1,11 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/house-tv-releases/main/app-release.apk",
-  "notes": "Tablet layout now adapts to the bigger screen • tap, swipe and double-tap controls in the player • a back arrow in full screen on touch devices • tapping a channel card anywhere plays it",
+  "notes": "TV guide fix: Showtime now shows what is actually on • sister feeds can no longer take a channel's guide card",
   "changes": [
-    "Tablet layout now adapts to the bigger screen",
-    "tap, swipe and double-tap controls in the player",
-    "a back arrow in full screen on touch devices",
-    "tapping a channel card anywhere plays it"
+    "TV guide fix: Showtime now shows what is actually on",
+    "sister feeds can no longer take a channel's guide card"
   ],
-  "sha256": "8789b899bccf6e9d117056911eaf0d294d2cb8dd5bbe55baed95f4f27ef61c5b"
+  "sha256": "78c1497be0261b204b4ac3778fc58c9ce3758b8c61936be106e52067d61bfb88"
 }
