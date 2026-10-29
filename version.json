@@ -1,10 +1,11 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/house-tv-releases/main/app-release.apk",
-  "notes": "Channel switching no longer gets stuck on 24/7 and single-match streams",
+  "notes": "Upcoming matches always show their kick-off date and time • the source count moved below it",
   "changes": [
-    "Channel switching no longer gets stuck on 24/7 and single-match streams"
+    "Upcoming matches always show their kick-off date and time",
+    "the source count moved below it"
   ],
-  "sha256": "4e35a0d9b61f12530565b9e9edcb2c936730249e273936d4db2729a0e638f8f6"
+  "sha256": "d0e8e097496960fb670df961fb9e871cb5c9428ef4c7b622872981b7396d3b49"
 }
