@@ -1,12 +1,11 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/house-tv-releases/main/app-release.apk",
-  "notes": "Match cards are now all the same size • every fixture shows its kick-off time • the source count sits on its own line below it",
+  "notes": "Upcoming matches always show their kick-off date and time • the source count moved below it",
   "changes": [
-    "Match cards are now all the same size",
-    "every fixture shows its kick-off time",
-    "the source count sits on its own line below it"
+    "Upcoming matches always show their kick-off date and time",
+    "the source count moved below it"
   ],
-  "sha256": "46dc072afd144578832cbb3c2a933e2b8b3dd8d7984144ed5a59c793769b9d5e"
+  "sha256": "d0e8e097496960fb670df961fb9e871cb5c9428ef4c7b622872981b7396d3b49"
 }
