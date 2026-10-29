@@ -1,0 +1,10 @@
+{
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://raw.githubusercontent.com/Iricksta/house-tv-releases/main/app-release.apk",
+  "notes": "Guide scrolling is much smoother",
+  "changes": [
+    "Guide scrolling is much smoother"
+  ],
+  "sha256": "849c325366e43e32bdb65a9a747372b20da6c9cfa4a311f963021b0da555be7d"
+}
