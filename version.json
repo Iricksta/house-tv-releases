@@ -1,12 +1,13 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/house-tv-releases/main/app-release.apk",
-  "notes": "Match cards are now all the same size • every fixture shows its kick-off time • the source count sits on its own line below it",
+  "notes": "Tablet layout now adapts to the bigger screen • tap, swipe and double-tap controls in the player • a back arrow in full screen on touch devices • tapping a channel card anywhere plays it",
   "changes": [
-    "Match cards are now all the same size",
-    "every fixture shows its kick-off time",
-    "the source count sits on its own line below it"
+    "Tablet layout now adapts to the bigger screen",
+    "tap, swipe and double-tap controls in the player",
+    "a back arrow in full screen on touch devices",
+    "tapping a channel card anywhere plays it"
   ],
-  "sha256": "46dc072afd144578832cbb3c2a933e2b8b3dd8d7984144ed5a59c793769b9d5e"
+  "sha256": "8789b899bccf6e9d117056911eaf0d294d2cb8dd5bbe55baed95f4f27ef61c5b"
 }
