@@ -1,11 +1,16 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 34,
+  "versionName": "1.10",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/house-tv-releases/main/app-release.apk",
-  "notes": "TV guide fix: Showtime now shows what is actually on • sister feeds can no longer take a channel's guide card",
+  "notes": "theDaddy is now the main source for Live TV and Sports, trying every source before a fallback • Sports has a Live Now row and the 24/7 cartoons moved to Kids • seven Philippines channels added in their own section • duplicate channel cards removed • smarter failover only drops a feed that is genuinely dead or frozen • new House TV launcher icon and floating logo, with channel logos loading instantly after first launch • tablet gets a larger guide and nav rail, touch controls and a preview prompt",
   "changes": [
-    "TV guide fix: Showtime now shows what is actually on",
-    "sister feeds can no longer take a channel's guide card"
+    "theDaddy is now the main source for Live TV and Sports, trying every source before a fallback",
+    "Sports has a Live Now row and the 24/7 cartoons moved to Kids",
+    "seven Philippines channels added in their own section",
+    "duplicate channel cards removed",
+    "smarter failover only drops a feed that is genuinely dead or frozen",
+    "new House TV launcher icon and floating logo, with channel logos loading instantly after first launch",
+    "tablet gets a larger guide and nav rail, touch controls and a preview prompt"
   ],
-  "sha256": "78c1497be0261b204b4ac3778fc58c9ce3758b8c61936be106e52067d61bfb88"
+  "sha256": "1cf7cf9644f0d73244228946ce9732f5c55caae0fa7d8c05794319b32fb96c32"
 }
