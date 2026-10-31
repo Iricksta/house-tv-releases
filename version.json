@@ -1,16 +1,15 @@
 {
-  "versionCode": 34,
-  "versionName": "1.10",
+  "versionCode": 86,
+  "versionName": "1.11",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/house-tv-releases/main/app-release.apk",
-  "notes": "theDaddy is now the main source for Live TV and Sports, trying every source before a fallback • Sports has a Live Now row and the 24/7 cartoons moved to Kids • seven Philippines channels added in their own section • duplicate channel cards removed • smarter failover only drops a feed that is genuinely dead or frozen • new House TV launcher icon and floating logo, with channel logos loading instantly after first launch • tablet gets a larger guide and nav rail, touch controls and a preview prompt",
+  "notes": "Sports cards fit the full team names and stay one size • Teams league tabs lead with NBA, NBL, Formula 1 and NFL, and every tab opens at the top • live scores appear within seconds of opening Teams • a game level at the buzzer reads OT and keeps ticking, finished games read END • the guide highlight no longer changes colour when the nav opens • smoother nav rail and guide focus on TV",
   "changes": [
-    "theDaddy is now the main source for Live TV and Sports, trying every source before a fallback",
-    "Sports has a Live Now row and the 24/7 cartoons moved to Kids",
-    "seven Philippines channels added in their own section",
-    "duplicate channel cards removed",
-    "smarter failover only drops a feed that is genuinely dead or frozen",
-    "new House TV launcher icon and floating logo, with channel logos loading instantly after first launch",
-    "tablet gets a larger guide and nav rail, touch controls and a preview prompt"
+    "Sports cards fit the full team names and stay one size",
+    "Teams league tabs lead with NBA, NBL, Formula 1 and NFL, and every tab opens at the top",
+    "live scores appear within seconds of opening Teams",
+    "a game level at the buzzer reads OT and keeps ticking, finished games read END",
+    "the guide highlight no longer changes colour when the nav opens",
+    "smoother nav rail and guide focus on TV"
   ],
-  "sha256": "1cf7cf9644f0d73244228946ce9732f5c55caae0fa7d8c05794319b32fb96c32"
+  "sha256": "c2a95c2467bd064fd28674e0f6651e8be8ceed1837291f5fe68e702ba1ee1e40"
 }
